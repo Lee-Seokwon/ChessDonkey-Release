@@ -49,26 +49,6 @@
 
 ## 📱 스크린샷 (Screenshots)
 
-| 2D 체스판 | 3D 이소메트릭 뷰 | 로봇 감정 대국 | 복기 시뮬레이션 |
+| 2D 체스판 | 3D 이소메트릭 뷰 | 전적 보기 | 복기 시뮬레이션 |
 |:---:|:---:|:---:|:---:|
-| *(이미지 첨부)* | *(이미지 첨부)* | *(이미지 첨부)* | *(이미지 첨부)* |
-
----
-
-## 🚀 시작하기 (Getting Started)
-
-### 요구 사항
-- Android Studio Ladybug (2024.2.1+) 이상
-- JDK 11 이상
-- Android SDK 37
-
-### 빌드 및 실행
-```bash
-# 저장소 클론
-git clone https://github.com/사용자계정/DongkeyChess.git
-
-# 프로젝트 디렉토리 이동
-cd DongkeyChess
-
-# 디버그 APK 빌드
-./gradlew assembleDebug
+|<img width="108" height="264" alt="KakaoTalk_20261110_134353888_03" src="https://github.com/user-attachments/assets/a75394ba-ad2b-4b4f-b1b6-d30ae2df83d4" /> |<img width="264" height="108" alt="KakaoTalk_20261110_134353888_05" src="https://github.com/user-attachments/assets/423529e1-a892-42a1-ac7f-f2f5cc8f25a5" />|<img width="108" height="264" alt="KakaoTalk_20261110_134353888" src="https://github.com/user-attachments/assets/10c9dca5-600a-4c4a-8bb0-b2362245cda7" /> |<img width="108" height="264" alt="KakaoTalk_20261110_134353888_02" src="https://github.com/user-attachments/assets/b30b947a-df8a-4784-9703-bde300a9195e" />|<img width="108" height="264" alt="KakaoTalk_20261110_134353888_01" src="https://github.com/user-attachments/assets/0b5fbfe8-e681-4081-8b11-e2f166385244" />|
